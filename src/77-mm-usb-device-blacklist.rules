@@ -106,6 +106,9 @@ ATTRS{idVendor}=="0e8d", ATTRS{idProduct}=="3329", ENV{ID_MM_DEVICE_IGNORE}="1"
 # MediaTek MT65xx preloader
 ATTRS{idVendor}=="0e8d", ATTRS{idProduct}=="2000", ENV{ID_MM_DEVICE_IGNORE}="1"
 
+# HTC / BLU Advance 4.0 L cell phone
+ATTRS{idVendor}=="0bb4", ATTRS{idProduct}=="2008", ENV{ID_MM_DEVICE_IGNORE}="1"
+
 # PS-360 OEM (GPS sold with MS Street and Trips 2005)
 ATTRS{idVendor}=="067b", ATTRS{idProduct}=="aaa0", ENV{ID_MM_DEVICE_IGNORE}="1"
 
